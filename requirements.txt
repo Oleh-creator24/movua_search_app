@@ -1,0 +1,6 @@
+pymysql
+pymongo
+tabulate
+python-dotenv
+prettytable
+typing
